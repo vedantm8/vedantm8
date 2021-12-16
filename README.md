@@ -5,7 +5,7 @@
 ## About me 
 :school_satchel: I am a Computer Science major at Fordham University. \
 :bulb: I like to explore new technologies and develop software solutions. \
-:email: Contact me at <a href="mailto:vedantm@duck.com">vedantm@duck.com</a>: I'll try to respond as fast as I can.
+:email: Contact me at <a href="mailto:vedantm@duck.com">vedantm@duck.com</a>: I'll respond as fast as I can.
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
