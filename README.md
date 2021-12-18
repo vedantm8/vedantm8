@@ -20,7 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![xCode](https://img.shields.io/badge/-xCode-333333?style=flat&logo=xCode&logoColor=007ACC) &nbsp; 
 
-##Leetcode
+## Leetcode
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=vedantm8)
 
 ## Connect with me:
