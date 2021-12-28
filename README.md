@@ -21,7 +21,7 @@
 ![xCode](https://img.shields.io/badge/-xCode-333333?style=flat&logo=xCode&logoColor=007ACC) &nbsp; 
 
 ## Leetcode
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=vedantm8)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=vedantm8&extension=activity))
 
 ## Connect with me:
 
