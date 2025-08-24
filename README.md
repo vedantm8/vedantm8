@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello, my name is Vedant Mukherjee</b></h1>
+  <h1 align="center"><b>Hello, my name is Vedant</b></h1>
 </p>
 
 ## About me 
